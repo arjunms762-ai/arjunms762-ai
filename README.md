@@ -2,6 +2,8 @@
 
 I'm **[`Arjun`](https://www.linkedin.com/in/arjun-ms-9463462a2?utm_source=share_via&utm_content=profile&utm_medium=member_android)**, A Data Analyst with a strong foundation in Python, SQL, Excel, Power BI, and Tableau. With a passion for data analysis, visualization, and business insights, I work on projects that turn raw data into meaningful and actionable insights. My goal is to continuously improve my analytical skills, build impactful projects, and contribute to data-driven decision-making.
 
+<a href="https://www.linkedin.com/in/arjun-ms-9463462a2?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 <details>
   <summary>More about me</summary>

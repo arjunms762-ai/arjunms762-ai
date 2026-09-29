@@ -34,10 +34,6 @@ I'm **[`Arjun`](https://www.linkedin.com/in/arjun-ms-9463462a2?utm_source=share_
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/R%20Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming" />
-![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=powerbi&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0078D4?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge)
 
   </div>
 </div>

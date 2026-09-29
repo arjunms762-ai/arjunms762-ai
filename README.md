@@ -56,7 +56,7 @@ I'm **[`Arjun`](https://www.linkedin.com/in/arjun-ms-9463462a2?utm_source=share_
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[Pizza-Sales-Revenue-Analysis](https://github.com/arjunms762-ai/Pizza-Sales-Revenue-Analysis#pizza-sales-revenue-analysis)**    | Short Description |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 

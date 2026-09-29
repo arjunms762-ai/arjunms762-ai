@@ -58,6 +58,6 @@ I'm **[`Arjun`](https://www.linkedin.com/in/arjun-ms-9463462a2?utm_source=share_
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Pizza-Sales-Revenue-Analysis](https://github.com/arjunms762-ai/Pizza-Sales-Revenue-Analysis#pizza-sales-revenue-analysis)**    | Analyzed 48K+ pizza sales records using SQL, Python, Excel, Power Query, Power BI, and DAX to identify sales trends and business insights. Built an interactive Power BI dashboard with key KPIs and product analysis. |
 | **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[Amazon-Sales-Analysis](https://github.com/arjunms762-ai/Amazon-Sales-Analysis)**    | Analyzed Amazon sales data using SQL, Python, Excel, and Power BI to identify sales trends, product performance, and business insights. | 
 
 ---
